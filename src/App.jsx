@@ -5,9 +5,9 @@ function App() {
   
 
   return (
-    <div id="app-container" class=" container mx-auto pt-5 min-h-screen  flex flex-col">
+    <div id="app-container" class="bg-[#F2ECD1]">
       <Hero/>
-      <h1>Salut les morues</h1>
+      
     </div>
   ) 
 }

@@ -4,11 +4,7 @@ body {
   margin: 0; /* enlève la marge par défaut du body */
 }
 
-#app-container{
-  background-color:#F2ECD1;
-  margin: 0;
-  height: 100vh;
-}
+
  h1 {
     margin: 0;
  }
